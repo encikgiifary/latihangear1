@@ -1,0 +1,29 @@
+h1 {
+    font-weight: 800;
+    color:whitesmoke
+}
+p{
+    background-color: rgb(179, 180, 255);
+    background-color:white;
+}
+body{
+    background: url("imagess.jpg");
+    
+}
+h3{
+   color :whitesmoke;
+
+}
+nav{
+    color:black;
+    border: 10px solid orange;
+    display: inline;
+    float: right; 
+    font-size: 30px;
+
+}
+    
+  
+
+
+     
